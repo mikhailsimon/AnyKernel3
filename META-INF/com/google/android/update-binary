@@ -423,10 +423,10 @@ if [ -f version ]; then
   ui_printfile version;
   ui_print " ";
 fi;
-ui_print "  Hold on Flashing Graveyard Tombstone ";
+ui_print "  Hold on Flashing Nethunter ";
 ui_print " ";
 ui_print " ";
-ui_print "by: MAdMiZ ";
+ui_print "by: Mikhail Simon ";
 ui_print " ";
 ui_print "AnyKernel3 by osm0sis @ xda-developers";
 setup_env;
